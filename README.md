@@ -4,7 +4,7 @@ Estudiante de Desarrollo de Aplicaciones Web en CIFP Francesc de Borja Moll.
 
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=serhikalamar&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhikalamar&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhikalamar&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 <br>   
